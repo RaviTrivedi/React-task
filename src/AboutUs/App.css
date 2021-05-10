@@ -1,0 +1,19 @@
+/* .App {
+  text-align: center;
+  
+} */
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  /* color: white; */
+}
+
+.main_card_section{
+  padding: 7% 11%;
+  background-color: #0099ff !important;
+}

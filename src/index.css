@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  /* background-color: #22262d !important; */
+  /* font-family: 'Montserrat', sans-serif !important; */
+}
+
+.main_card_section {
+  padding: 3% 3% 3% 3%;
+  background-color: #0099ff !important;
+}
